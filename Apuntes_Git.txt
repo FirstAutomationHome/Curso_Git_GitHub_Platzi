@@ -9,3 +9,8 @@ git reset --mixed: Borra todo, exactamente todo. Toda la información de los com
 git reset HEAD: El comando git reset saca archivos del área de staging sin borrarlos ni realizar otras acciones. Esto impide que los últimos cambios en estos archivos se envíen al último commit. Podemos incluirlos de nuevo en staging con git add si cambiamos de opinión.
 
 git branch HEAD: Crea otra rama con el nombre que pongamos donde dice HEAD
+
+git log --all --graph --decorate --oneline: Ver toda la historia y proceso de los commit al detalle
+Alias de ese comando tan largo
+alias arbolito="git log --all --graph --decorate --oneline": con esto le creamos el alias a ese comando
+
