@@ -1,3 +1,6 @@
+Esto es lo mismo que la historia del video
+Experimiento1
+
 1. git log + nombre del archivo con ext = Conocer los códigos de los commit realizados 
 2. git diff + código del commit 1 + espacio + código de commit 2 = Comparar dos commit 
 3. git reset + código del commit (al que quiero volver) + --hard 
