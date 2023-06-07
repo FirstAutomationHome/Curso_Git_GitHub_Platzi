@@ -1,0 +1,3 @@
+Estas es una prueba del curso de Git
+Se agrega un segundo texto p
+otro commit
